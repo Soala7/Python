@@ -34,13 +34,21 @@ All lessons are explained with simple code, comments, and examples.
 ✔️ Intro to Modules and Libraries
 
 ## 🗂️ Folder Structure
+
 python/
+
 ├── basics/ # All beginner lessons
+
 ├── examples/ # Small programs with explanation
+
 ├── exercises/ # Challenges and mini tasks
+
 ├── quizzes/ # Test your knowledge
+
 ├── resources/ # Cheat sheets and tips
+
 └── README.md
+
 <p align="center"> <em>"Programming isn't about what you know – it's about what you can figure out." — Chris Pine</em> </p>
 
 Learn With Me (Optional)
@@ -56,4 +64,4 @@ Want to learn visually?
    git clone https://github.com/yourusername/python.git
    cd python
 
-<p align="center"> <em>"Programming isn't about what you know – it's about what you can figure out." — Chris Pine</em> </p>
+
