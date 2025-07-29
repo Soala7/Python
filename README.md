@@ -42,14 +42,13 @@ python/
 ├── resources/ # Cheat sheets and tips
 └── README.md
 
-**Clone this repo:**
-   ```bash
-   git clone https://github.com/yourusername/python.git
-   cd python
-
 Learn With Me (Optional)
 Want to learn visually?
 🎥 Watch the YouTube Tutorial Series
 🌐 Visit the Learning Website (Coming Soon)
+**Clone this repo:**
+   ```bash
+   git clone https://github.com/yourusername/python.git
+   cd python
 
 <p align="center"> <em>"Programming isn't about what you know – it's about what you can figure out." — Chris Pine</em> </p>
