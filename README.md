@@ -33,31 +33,13 @@ All lessons are explained with simple code, comments, and examples.
 ✔️ Basic Error Handling  
 ✔️ Intro to Modules and Libraries
 
-## 🗂️ Folder Structure
-
-python/
-
-├── basics/ # All beginner lessons
-
-├── examples/ # Small programs with explanation
-
-├── exercises/ # Challenges and mini tasks
-
-├── quizzes/ # Test your knowledge
-
-├── resources/ # Cheat sheets and tips
-
-└── README.md
 
 <p align="center"> <em>"Programming isn't about what you know – it's about what you can figure out." — Chris Pine</em> </p>
 
-Learn With Me (Optional)
 
-Want to learn visually?
+🎥 Watch these Tutorial Series
 
-🎥 Watch the YouTube Tutorial Series
-
-🌐 Visit the Learning Website (Coming Soon)
+🌐 Visit <a href"https://www.classcentral.com/classroom/freecodecamp-harvard-cs50-s-introduction-to-programming-with-python-full-university-course-180186">Harvard CS50’s Introduction to Programming with Python – Full University Course</a>
 
 **Clone this repo:**
    ```bash
