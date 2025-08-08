@@ -39,7 +39,7 @@ All lessons are explained with simple code, comments, and examples.
 
 🎥 Watch these Tutorial Series
 
-🌐 Visit <a href"https://www.classcentral.com/classroom/freecodecamp-harvard-cs50-s-introduction-to-programming-with-python-full-university-course-180186">Harvard CS50’s Introduction to Programming with Python – Full University Course</a>
+🌐 Visit <a href = "https://www.classcentral.com/classroom/freecodecamp-harvard-cs50-s-introduction-to-programming-with-python-full-university-course-180186">Harvard CS50’s Introduction to Programming with Python – Full University Course</a>
 
 **Clone this repo:**
    ```bash
